@@ -6,10 +6,11 @@
 
 **About me**
 
-- 💼 FrontEnd $ BackEnd Developer
+- 💼 I’m a FrontEnd & BackEnd Developer
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
-
+- 🌱 I’m currently learning NextJs
+  
+- ❤️ I live in Iran-Hamedan Province 
 
 
   
