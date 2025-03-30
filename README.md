@@ -37,7 +37,7 @@ ___
 ___
 ### Socials
 
-[![Gmail](https://img.shields.io/badge/Gmail-hamid.ghas24@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:hamid.ghas24@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hamid.ghas24@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/hamidreza-ghasemii)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/HRG1375)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.link/wkedtc)
