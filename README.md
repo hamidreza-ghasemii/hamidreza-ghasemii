@@ -10,7 +10,9 @@
 
 - 🌱 I’m currently learning NextJs
   
-- ❤️ I live in Iran-Hamedan Province 
+- 🏠 I live in Iran-Hamedan Province
+  
+- ❤️ Visit My [Resume](https://hamidreza-ghasemii.github.io/myResume) In Persian language
 
 ___
 
