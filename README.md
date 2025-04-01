@@ -42,11 +42,16 @@ ___
 ___
 ### Socials
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hamid.ghas24@gmail.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/hamidreza-ghasemii)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/HRG1375)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.link/wkedtc)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hamidreza.gh22)
+<br/>
+[![Telegram](https://img.shields.io/badge/Telegram-@hrg1375-2CA5E0?logo=telegram)](https://t.me/HRG1375)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+27747774073-25D366?logo=whatsapp)](https://wa.link/wkedtc)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@hamidreza.gh22-violet?logo=Instagram&logoColor=violet)](https://www.instagram.com/hamidreza.gh22)
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-hamidreza--ghasemii-yellow?logo=linkedin&logoColor=yellow)](https://www.linkedin.com/in/hamidreza-ghasemii)
+
+[![Gmail](https://img.shields.io/badge/Gmail-hamid.ghas24@gmail.com-D14836?logo=gmail)](mailto:hamid.ghas24@gmail.com)
 
 <!--
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
