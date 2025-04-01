@@ -23,17 +23,18 @@ ___
 <br/>
 
 <p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&nbsp;
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> &nbsp;
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>&nbsp;
-    <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a> &nbsp;
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/react-colored.svg" width="36" height="36" alt="React" /></a>&nbsp;
-    <a href="https://tanstack.com/" target="_blank" rel="noreferrer"><img src="./react-query-seeklogo.svg" width="36" height="36" alt="React" /></a>&nbsp;
-    <a href="https://react-hook-form.com" target="_blank" rel="noreferrer"><img src="./react-hook-form-logo-only.png" width="34" height="34" alt="React" /></a>&nbsp;
-    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/redux-colored.svg" width="36" height="36" alt="Redux" /></a>&nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img title="HTML5" src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&nbsp;
+    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img title="CSS3" src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> &nbsp;
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img title="Bootstrap" src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>&nbsp;
+    <a href="https://mui.com/" target="_blank" rel="noreferrer"><img title="Material UI" src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img title="Javascript"  src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a> &nbsp;
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img title="React" src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/react-colored.svg" width="36" height="36" alt="React" /></a>&nbsp;
+    <a href="https://tanstack.com/" target="_blank" rel="noreferrer"><img title="React Query" src="./react-query-seeklogo.svg" width="36" height="36" alt="React Query" /></a>&nbsp;
+    <a href="https://react-hook-form.com" target="_blank" rel="noreferrer"><img title="React Hook Form"" src="./react-hook-form-logo-only.png" width="34" height="34" alt="React Hook Form" /></a>&nbsp;
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img title="Redux" src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/redux-colored.svg" width="36" height="36" alt="Redux" /></a>&nbsp;
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img title="Node.Js" src="./" width="36" height="36" alt="Node.Js" /></a>&nbsp;
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img title="MySQL" src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img title="MongoDB" src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>&nbsp;
   
 </p>
 <!--
