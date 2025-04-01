@@ -43,6 +43,7 @@ ___
 ### Socials
 
 <br/>
+
 [![Telegram](https://img.shields.io/badge/Telegram-@hrg1375-2CA5E0?logo=telegram)](https://t.me/HRG1375)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+27747774073-25D366?logo=whatsapp)](https://wa.link/wkedtc)
