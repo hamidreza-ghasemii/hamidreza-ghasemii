@@ -3,14 +3,16 @@
 <br />
 
 
+### **About Me**
 
 
-
-- 💼 I’m a FrontEnd & BackEnd Developer
+- 🛠 I’m a FrontEnd & BackEnd Developer
 
 - 🌱 I’m currently learning NextJs
   
 - 🏠 I live in Iran-Hamedan Province
+
+- 👨‍🎓 I’m Graduated with a Bachelor's degree in Computer Engineering from [Hamedan Univercity Of Technology](https://www.hut.ac.ir) University
   
 - ❤️ Visit My [Resume](https://hamidreza-ghasemii.github.io/myResume) In Persian language
 
